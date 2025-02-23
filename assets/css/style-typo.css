@@ -1,0 +1,50 @@
+.nc {
+	user-select: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+}
+
+.divider {
+	width: 100%;
+	border-bottom: 1px solid black;
+	margin: 20px 0;
+}
+.prosanesia-csh {
+	font-size: 50px;
+}
+.prosanesia-csp {
+	font-size: 20px;
+}
+.prosanesia-center {
+	width: 50%;
+	margin: 0 auto;
+	text-align: left;
+}
+
+.quotivia-csp {
+	font-size: 20px;
+}
+
+.head1 {
+	font-family: 'Covered By Your Grace', serif;
+}
+.head2 {
+	font-family: 'Moon Dance', serif;
+}
+.head3 {
+	font-family: 'Caveat', serif;
+}
+.head4 {
+	font-family: 'Annie Use Your Telescope', serif;
+}
+.head5 {
+	font-family: 'Josefin Slab', serif;
+}
+.head6 {
+	font-family: 'Sriracha', serif;
+}
+.head7 {
+	font-family: 'Cinzel Decorative', serif;
+}
+
